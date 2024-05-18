@@ -1,0 +1,7 @@
+#Wed Apr 12 00:43:13 CEST 2017
+base.0=C\:\\LandMStorage\\AndroidStudio\\AndroidStudioProjects\\CourtCounter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4ce60a0826c438f258c5993d3d71737ec3316edf
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\LandMStorage\\AndroidStudio\\AndroidStudioProjects\\CourtCounter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_94d97ef09c406531ddc99e3d71bfb75db798def2\\classes.dex
+base.1=C\:\\LandMStorage\\AndroidStudio\\AndroidStudioProjects\\CourtCounter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_94d97ef09c406531ddc99e3d71bfb75db798def2
+file.0=C\:\\LandMStorage\\AndroidStudio\\AndroidStudioProjects\\CourtCounter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4ce60a0826c438f258c5993d3d71737ec3316edf\\classes.dex

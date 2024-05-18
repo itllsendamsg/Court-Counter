@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\CourtCounter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_94d97ef09c406531ddc99e3d71bfb75db798def2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\CourtCounter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25998136de08e764fd5745f64875e343e91b96b8">
+        <dex dex="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4ce60a0826c438f258c5993d3d71737ec3316edf\classes.dex" />
+    </item>
+
+</items>
